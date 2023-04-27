@@ -1,0 +1,64 @@
+@media screen and (max-width: 995px){
+    .addContainer div input{
+        width: 78%;
+    }
+
+    .addContainer div button{
+       font-size: 12px;
+    }
+
+}
+
+@media screen and (max-width: 740px){
+    font{
+        width: 84%;
+        height: 100%;
+    }
+
+    .actions{
+        width: 12.5%;
+    }
+
+    .fa-trash{
+        font-size: 13px;
+    }
+    
+    .fa-check{
+        font-size: 13px;
+    }
+
+    .addContainer div{
+        width: 80%;
+    }
+
+    .Task{
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .actions{
+        width: 14.5%;
+    }
+    .fa-trash{
+        font-size: 12px;
+    }
+    
+    .fa-check{
+        font-size: 12px;
+    }
+
+    
+}
+
+@media screen and (max-width: 420px){
+    font{
+        font-size: 12px;
+        width: 82%;
+        height: 100%;
+    }
+
+    .actions{
+        width: 14.5%;
+    }
+}
